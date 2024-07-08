@@ -17,7 +17,7 @@
 <img src="https://github.com/Harshvasoya2737/galaxy_planets_animator/assets/148517061/ab57fef6-5b47-453d-aedc-db8cf721c2aa" alt="16" style="width: 200px; height: 450px;">
 
 ## Here aims sharing you the support screen recording Off my Galaxy Planet Animator application.
-## To check the proper animation kindly see the full video with a concentration and see the proper video To know about how animation working in my application So kindly see video fool and with concentration please its a humble request to check the full animation in my application.
+## To check the proper animation kindly see the full video with a concentration and see the proper video To know about how animation working in my application So kindly see video fully and with concentration please its a humble request to check the full animation in my application.
 
 **Screenrecording Link => https://drive.google.com/file/d/1n0ndWiEmRPyqS01VKo0UFrQU1h02CIJ0/view?usp=sharing**
 
